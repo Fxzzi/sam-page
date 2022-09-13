@@ -8,4 +8,4 @@ Yet another minimal startpage:
 
 ### Preview:
 
-![img](https://cdn.discordapp.com/attachments/632110056472576000/1019323719233065050/unknown.png)
+![img](https://cdn.discordapp.com/attachments/632110056472576000/1019356982655864873/unknown.png)
