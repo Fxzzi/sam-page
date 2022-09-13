@@ -1,5 +1,5 @@
 @font-face {
-  font-family: Font;
+  font-family: "Font";
   src: url("./JetBrains.ttf");
 }
 
@@ -12,8 +12,8 @@ html {
 
 body {
   display: flex;
-  color: #F5C2E7;
-  background: #1E1E2E;
+  color: #9fadc6;
+  background: #0b0e13;
   margin-right: 9em;
   padding: 1em;
   font-family: Font;
@@ -22,8 +22,9 @@ body {
 img {
   height: 600px;
   width: 350px;
-  margin-right: 2em;
-  border-radius: 5px;
+  margin: auto;
+  display: block;
+  border-radius: 6px;
   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 
@@ -46,7 +47,7 @@ h1 {
 h2 {
   font-size: 1.2em;
   font-weight: 600;
-  color: #525252;
+  color: #7aa2f7;
   grid-column: 1/-1;
   text-align: center;
   margin-bottom: 2.3em;
@@ -66,7 +67,7 @@ li {
 
 li:first-child {
   display: inline-block;
-  color: #89DCEB;
+  color: #7aa2f7;
   font-size: 1.5em;
   font-weight: 600;
   text-align: center;
@@ -75,12 +76,12 @@ li:first-child {
 }
 
 a {
-  color: #D9E0EE;
+  color: #9fadc6;
   font-size: 1.1em;
   text-decoration: none;
 }
 
 a:hover {
-  color: #FAE3B0;
+  color: #e0af68;
   font-style: italic;
 }
